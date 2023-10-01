@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/Cocktail-Webiste/static/css/main.31d6cfe0.css",
+    "main.js": "/Cocktail-Webiste/static/js/main.8197f25d.js",
+    "index.html": "/Cocktail-Webiste/index.html",
+    "main.8197f25d.js.map": "/Cocktail-Webiste/static/js/main.8197f25d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.8197f25d.js"
+  ]
+}
